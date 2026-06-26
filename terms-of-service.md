@@ -22,7 +22,7 @@ Please keep your account credentials secure.
 
 4. Data Privacy
 
-Your privacy is important to us. Please refer to our [Privacy Policy](https://github.com/Baraiya-raj/Kamaai---Hira-Hisab-privacy-policy-/raw/refs/heads/main/privacy-policy.md]) to understand how we collect and use your data.
+Your privacy is important to us. Please refer to our [Privacy Policy]( https://github.com/Baraiya-raj/Kamaai---Hira-Hisab-privacy-policy-/raw/refs/heads/main/privacy-policy.md ]) to understand how we collect and use your data.
 
 5. Limitation of Liability
 
